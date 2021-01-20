@@ -1,6 +1,6 @@
 server: 
   port: 8761
-  #waitTimeInMSWhenSyncEmpty: 0
+  waitTimeInMSWhenSyncEmpty: 0
 
 #Eureka Configuration Properties
 eureka:
